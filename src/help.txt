@@ -1,0 +1,22 @@
+Hello! Thanks for using this program)))
+To set DB params you may use class ConnectionToDB
+Constructor(dbURL + dbName, dbUser, dbPassword).
+
+sql - file, to create DB for this app is attached.
+
+After running the program in class CheckRunner,
+you should type in console
+"new" - to create new receipt;
+"exit" - to exit from program;
+
+after starting of new check creation, you'll be
+asked to choose the way of data input,
+just type:
+"auto" - and information for check creation will be
+automatically uploaded;
+"txt" - for txt - file;
+"json" - if you decide to upload json - file, and it has
+several order examples, you'll be asked to choose which one
+would you like to upload;
+"console" - to input oder from console.
+
