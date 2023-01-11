@@ -12,7 +12,7 @@ you should type in console:
 "new" - to create new receipt;
 "exit" - to exit from program;
 
-after starting of new check creation, you'll be
+After starting of a new check creation, you'll be
 asked to choose the way of data input,
 just type:
 "auto" - and information for check creation will be
